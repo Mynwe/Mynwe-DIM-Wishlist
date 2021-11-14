@@ -1,4 +1,4 @@
-title: - Mynwe's PvP Sniper Checklist 1.0.1
+title: - Mynwe's PvP Sniper Checklist 1.0.2
 
 description: - Full list of high quality rolls for each and every sniper currently unsunset and obtainable in the game, purely from a pvp perspective. This wishlist also shows how close you are to a good roll, by highlighting individual perks as well as entire rolls.
 
